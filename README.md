@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Saumya Bhardwaaj
-# 💫 About Me:
-SDE-1 | Full Stack Engineer<br>I build production-grade web systems end-to-end — from database schema and secure APIs to responsive UI, deployment, and optimization.<br><br>I focus on scalability, reliability, and clean architecture.<br>I ship fast. I iterate smarter. I build systems that last.<br><br>🧠 Engineering Profile<br><br>💻 Role Focus: Software Development Engineer (SDE-1) / Full Stack<br>🧩 Domains: Web Applications, REST APIs, Authentication & RBAC Systems, Dashboards, Real-Time Features<br>⚙️ Built & Deployed: Full-stack products with auth flows, admin panels, dynamic routing, and scalable backend systems<br>☁️ Approach: Performance-first development with production mindset
+
+SDE-1 | Full Stack Engineer<br>I build production-grade web systems end-to-end — from database schema and secure APIs to responsive UI, deployment, and optimization.<br><br>I focus on scalability, reliability, and clean architecture.<br>I ship fast. I iterate smarter. I build systems that last.<br><br>🧠 Engineering Profile<br><br>💻 Role Focus: Software Development Engineer (SDE-1) / Full Stack<br>
+# 💫 About Me: <br> 🧩 Domains: Web Applications, REST APIs, Authentication & RBAC Systems, Dashboards, Real-Time Features<br>⚙️ Built & Deployed: Full-stack products with auth flows, admin panels, dynamic routing, and scalable backend systems<br>☁️ Approach: Performance-first development with production mindset
 
 
 ## 🌐 Socials:
