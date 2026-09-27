@@ -1,4 +1,4 @@
-![Saumya Bhardwaaj — Full Stack Developer](assets/header.svg)
+![Saumya Bhardwaaj — Full Stack Developer](header.svg)
 
 **B.Tech student at Haldia Institute of Technology** · Building across frontend, backend, and deployment.
 
@@ -12,7 +12,7 @@ I enjoy turning complex workflows into clear interfaces and dependable APIs. My 
 
 ## What I work with
 
-![Technical stack: frontend, backend, data, workflow, and languages](assets/stack.svg)
+![Technical stack: frontend, backend, data, workflow, and languages](stack.svg)
 
 <details>
 <summary><b>See how I use this stack in my projects</b></summary>
