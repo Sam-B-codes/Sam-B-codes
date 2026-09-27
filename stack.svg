@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="328" viewBox="0 0 1000 328" role="img" aria-label="Technical stack: frontend, backend, data, tooling, and languages">
+<rect width="1000" height="328" rx="18" fill="#0f172a"/>
+<g font-family="Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">
+<rect x="18" y="18" width="964" height="48" rx="9" fill="#164e63"/><text x="37" y="49" fill="#67e8f9">FRONTEND</text><text x="240" y="49">React  ·  Next.js  ·  TypeScript  ·  Tailwind CSS</text>
+<rect x="18" y="79" width="964" height="48" rx="9" fill="#4c1d3f"/><text x="37" y="110" fill="#fda4af">BACKEND</text><text x="240" y="110">Node.js  ·  Express  ·  REST APIs  ·  JWT  ·  RBAC</text>
+<rect x="18" y="140" width="964" height="48" rx="9" fill="#312e81"/><text x="37" y="171" fill="#c4b5fd">DATA</text><text x="240" y="171">MongoDB  ·  Prisma  ·  Redis</text>
+<rect x="18" y="201" width="964" height="48" rx="9" fill="#3f341c"/><text x="37" y="232" fill="#fde68a">WORKFLOW</text><text x="240" y="232">Nx  ·  Docker  ·  Git  ·  Swagger  ·  Jest  ·  Vercel</text>
+<rect x="18" y="262" width="964" height="48" rx="9" fill="#153d37"/><text x="37" y="293" fill="#6ee7b7">LANGUAGES</text><text x="240" y="293">JavaScript  ·  Java  ·  Python  ·  C++</text>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Saumya Bhardwaaj, full stack developer">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset=".55" stop-color="#1a1535"/><stop offset="1" stop-color="#31142e"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#fb7185"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".13"/></pattern>
+</defs>
+<rect width="1000" height="290" rx="22" fill="url(#bg)"/>
+<rect width="1000" height="290" rx="22" fill="url(#dots)"/>
+<rect x="0" y="0" width="8" height="290" fill="url(#accent)"/>
+<circle cx="886" cy="134" r="140" fill="#fb7185" opacity=".06"/><circle cx="886" cy="134" r="91" fill="#a78bfa" opacity=".09"/>
+<rect x="57" y="39" width="223" height="31" rx="15" fill="#fb7185" opacity=".15" stroke="#fb7185" stroke-opacity=".6"/>
+<text x="73" y="60" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#fda4af">FULL STACK DEVELOPER</text>
+<text x="55" y="127" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Saumya Bhardwaaj</text>
+<text x="58" y="168" font-family="Arial, sans-serif" font-size="19" fill="#cbd5e1">Building thoughtful interfaces and dependable systems.</text>
+<rect x="57" y="203" width="435" height="43" rx="10" fill="#ffffff" opacity=".08" stroke="#ffffff" stroke-opacity=".15"/>
+<circle cx="77" cy="225" r="5" fill="#4ade80"/>
+<text x="91" y="231" font-family="Arial, sans-serif" font-size="16" fill="#f1f5f9">Open to SDE internships + freelance projects</text>
+<path d="M757 123l50-40 50 40v54l-50 40-50-40z" fill="none" stroke="#fb7185" stroke-width="3" opacity=".7"/>
+<path d="M806 103l-29 20 29 20m0 40l29-20-29-20" fill="none" stroke="#a78bfa" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
